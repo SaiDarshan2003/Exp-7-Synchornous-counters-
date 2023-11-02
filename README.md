@@ -66,7 +66,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 Developed by: Sai Darshan G
 
-RegisterNumber:  212221240047
+Register Number:  212221240047
 
 ```
 ### UPCOUNTER: 
